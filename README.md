@@ -85,7 +85,7 @@ git clone https://github.com/harminderkaur1329/DNA_Sequence_Analyzer.git
 Move into the project folder
 
 ```bash
-cd DNA-Analyzer
+cd DNA_Sequence_Analyzer
 ```
 
 Install the required libraries
